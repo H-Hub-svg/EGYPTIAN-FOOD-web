@@ -1,0 +1,26 @@
+body
+{background-color:pink}
+h1{
+	color:red;
+	font-size:32;
+	font-weight:bold;
+	text-decoration:underline;
+	text-align:center;
+}
+
+
+h2{
+	color:green;
+	font-weight:bold;
+	font-size:30px;
+	text-align:left;
+
+
+}
+p
+{color:blue;
+font-size:26px;
+font-family:arial;
+font-weight:bold;
+text-decoration:none;
+}
